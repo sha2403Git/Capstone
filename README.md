@@ -1,2 +1,2 @@
 # Capstone
-New Git account set`:wq! up file
+New Git account set up file
